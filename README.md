@@ -35,14 +35,5 @@ The game requires the following dependencies:
 
 - Pygame: A cross-platform set of Python modules designed for writing video games.
 
-## Credits
-
-This game is created by Santhosh Sachin. The game assets (sprites, sounds) are taken from the [Flappy Bird Clone](https://github.com/sourabhv/FlapPyBird) project by Sourabh Verma.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
 
 Have fun playing Flappy Bird!
